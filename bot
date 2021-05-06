@@ -1,4 +1,4 @@
-local paste = "https://github.com/lxyodevelopment/flingbymertcan/main/bot"
+local paste = "https://raw.githubusercontent.com/lxyodevelopment/flingbymertcan/main/bot"
 local message = "Pvexq 1000 add me :)"
 if not game:IsLoaded() then game.Loaded:wait() end
 
